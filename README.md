@@ -42,4 +42,4 @@ En Luma, mediante la herramienta **Create Video**, modelo Ray3.2, y 3 key frames
 
 Hice algunos intentos, pero en todos los casos el alejamiento de cámara final no quedó muy bien. Este fue el video que más me gustó y se asemejaba más a lo que tenía pensado.
 
-<video src="trabajo-1-video.mp4" width="80%" controls></video>
+https://github.com/user-attachments/assets/2330b436-7976-4f78-b65d-321b75243488
